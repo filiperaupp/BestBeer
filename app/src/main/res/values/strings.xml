@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Melhor Cerveja</string>
+    <string name="price">Preço</string>
+    <string name="price_in_money">Preço em R$</string>
+    <string name="qtd_for_ml">Quantidade em ml</string>
+    <string name="cerveja_1">CERVEJA 1</string>
+    <string name="cerveja_2">CERVEJA 2</string>
+    <string name="cerveja_3">CERVEJA 3</string>
+    <string name="cerveja_4">CERVEJA 4</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="ml_s" translatable="false">ML\'s</string>
+    <string name="cerveja_campea">Lista de valores</string>
+    <string name="as_outras">AS OUTRAS</string>
+    <string name="preco_por_ml">Preço por ml</string>
+    <string name="qtd">Quantidade</string>
+    <string name="media">Média</string>
+    <string name="moderation">Beba com moderação</string>
+    <string name="qtd_result" translatable="false">qtd</string>
+    <string name="prc" translatable="false">prc</string>
+    <string name="med" translatable="false">med</string>
+</resources>

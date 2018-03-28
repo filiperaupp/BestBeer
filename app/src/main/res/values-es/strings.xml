@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mejor Cerveza</string>
+    <string name="price">Precio</string>
+    <string name="price_in_money">Precio en €</string>
+    <string name="qtd_for_ml">Cantidad en ml</string>
+    <string name="cerveja_1">CERVEZA 1</string>
+    <string name="cerveja_2">CERVEZA 2</string>
+    <string name="cerveja_3">CERVEZA 3</string>
+    <string name="cerveja_4">CERVEZA 4</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="cerveja_campea">Lista de valores</string>
+    <string name="as_outras">LAS OTRAS</string>
+    <string name="preco_por_ml">Precio por ml</string>
+    <string name="qtd">Cantidad</string>
+    <string name="media">Promedio</string>
+    <string name="moderation">Beba com moderacion</string>
+</resources>

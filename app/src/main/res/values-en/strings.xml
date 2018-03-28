@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Best Beer</string>
+    <string name="price">Price</string>
+    <string name="price_in_money">Price in U$</string>
+    <string name="qtd_for_ml">Quantity in ml</string>
+    <string name="cerveja_1">BEER 1</string>
+    <string name="cerveja_2">BEER 2</string>
+    <string name="cerveja_3">BEER 3</string>
+    <string name="cerveja_4">BEER 4</string>
+    <string name="calcular">CALCULATE</string>
+    <string name="cerveja_campea">List of Values</string>
+    <string name="as_outras">THE OTHERS</string>
+    <string name="preco_por_ml">Price per ml</string>
+    <string name="qtd">Quantity</string>
+    <string name="media">Average</string>
+    <string name="moderation">Drink with moderation</string>
+</resources>
